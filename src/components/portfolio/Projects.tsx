@@ -5,15 +5,16 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   { name: "DigiTace Tech Solutions", url: "https://digitacetechsolutions.com/", cat: "Agency", desc: "Flagship agency platform — services, lead capture & content engine.", tech: ["WordPress", "PHP", "SEO"] },
-  { name: "Sparks Golden Guide", url: "https://sparks-golden-guide.vercel.app/", cat: "Education", desc: "Modern educational guide platform with structured content delivery.", tech: ["React", "Next.js", "Tailwind"] },
+  { name: "SPARKS & ASSOCIATES ", url: "https://sparks-golden-guide.vercel.app/", cat: "Education", desc: "Modern educational guide platform with structured content delivery.", tech: ["React", "Next.js", "Tailwind"] },
   { name: "Strike Films", url: "https://www.strikefilmss.com/", cat: "Media", desc: "Cinematic production house portfolio with immersive showreel.", tech: ["WordPress", "Custom Theme"] },
-  { name: "NXTE Mobility", url: "https://nxtemobility.com/", cat: "EV / Mobility", desc: "EV mobility brand site with product showcase & lead funnels.", tech: ["WordPress", "Performance"] },
+  { name: "NXTMobility", url: "https://nxtemobility.com/", cat: "EV / Mobility", desc: "EV mobility brand site with product showcase & lead funnels.", tech: ["WordPress", "Performance"] },
   { name: "Peharava", url: "https://peharava.com/", cat: "Lifestyle", desc: "Lifestyle e-commerce experience with custom storefront.", tech: ["Shopify", "Liquid"] },
   { name: "FITSA", url: "https://fitsa.in/", cat: "Fitness", desc: "Fitness brand site optimized for conversions & local SEO.", tech: ["WordPress", "SEO"] },
   { name: "Tolo India", url: "https://toloindia.com/", cat: "E-commerce", desc: "Indian D2C commerce site with payment & catalog systems.", tech: ["Shopify", "PHP"] },
   { name: "Tarash Designs", url: "http://tarashdesigns.vercel.app/", cat: "Design", desc: "Premium design studio portfolio with editorial layout.", tech: ["React", "Vercel"] },
   { name: "Home N Earth", url: "https://homenearth.in/", cat: "Home & Decor", desc: "Home decor commerce platform with rich product storytelling.", tech: ["WordPress", "WooCommerce"] },
   { name: "Evalgator", url: "https://www.evalgator.com/en-in/", cat: "SaaS", desc: "Assessment & evaluation SaaS marketing site, multi-region.", tech: ["WordPress", "i18n"] },
+  { name: "Manali Haven", url: "https://manali-mountain-haven.vercel.app/", cat: "Hotel", desc: "Premium design for hotel Booking in Manali.", tech: ["React", "Hostinger"] },
 ];
 
 const filters = ["All", "Agency", "Education", "Media", "EV / Mobility", "Lifestyle", "Fitness", "E-commerce", "Design", "Home & Decor", "SaaS"];
