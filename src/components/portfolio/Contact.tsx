@@ -23,8 +23,8 @@ export function Contact() {
       title={<>Let's build something <span className="gradient-text">that performs.</span></>}
       description="Send a brief about your project. I respond within 24 hours, usually faster."
     >
-      <div className="grid lg:grid-cols-5 gap-6">
-        <form onSubmit={onSubmit} className="glass rounded-3xl p-7 md:p-9 lg:col-span-3 space-y-4">
+      <div className="grid lg:grid-cols-5 gap-6" >
+        <form onSubmit={onSubmit} className="glass rounded-3xl p-7 md:p-9 lg:col-span-3 space-y-4" action="https://formspree.io/f/meedeyeg">
           <div className="grid sm:grid-cols-2 gap-4">
             <Field label="Name" name="name" placeholder="Your full name" required />
             <Field label="Email" name="email" type="email" placeholder="you@company.com" required />
