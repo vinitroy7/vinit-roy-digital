@@ -15,6 +15,7 @@ const projects = [
   { name: "Home N Earth", url: "https://homenearth.in/", cat: "Home & Decor", desc: "Home decor commerce platform with rich product storytelling.", tech: ["WordPress", "WooCommerce"] },
   { name: "Evalgator", url: "https://www.evalgator.com/en-in/", cat: "SaaS", desc: "Assessment & evaluation SaaS marketing site, multi-region.", tech: ["WordPress", "i18n"] },
   { name: "Manali Haven", url: "https://manali-mountain-haven.vercel.app/", cat: "Hotel", desc: "Premium design for hotel Booking in Manali.", tech: ["React", "Hostinger"] },
+  { name: "Atherma", url: "https://atherma-homes.vercel.app/", cat: "Real Estate", desc: "Real Estate Proporty Listing Portal", tech: ["React", "Hostinger"] },
 ];
 
 const filters = ["All", "Agency", "Education", "Media", "EV / Mobility", "Lifestyle", "Fitness", "E-commerce", "Design", "Home & Decor", "SaaS"];
