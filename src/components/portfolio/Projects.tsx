@@ -18,7 +18,7 @@ const projects = [
   { name: "Atherma", url: "https://atherma-homes.vercel.app/", cat: "Real Estate", desc: "Real Estate Proporty Listing Portal", tech: ["React", "Hostinger"] },
 ];
 
-const filters = ["All", "Agency", "Education", "Media", "EV / Mobility", "Lifestyle", "Fitness", "E-commerce", "Design", "Home & Decor", "SaaS"];
+const filters = ["All", "Agency", "Education", "Media", "EV / Mobility", "Lifestyle", "Fitness", "E-commerce", "Design", "Home & Decor", "SaaS", "Real Estate", "Hotel"];
 
 export function Projects() {
   const [filter, setFilter] = useState("All");
